@@ -15,3 +15,7 @@ group :test do
       gem 'capybara'
       gem 'rack-test'
     end
+
+gem "pig_latin", "~> 0.0.2"
+
+gem "ubyray", "~> 0.0.3"
